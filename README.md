@@ -2,20 +2,25 @@
 — produced hit reality shows for a decade, now building with data literacy & AI.
   
 I'm Kenzie. I've made reality TV (*Street Food Fighter*, *Youn's Kitchen*, *Three Meals a Day*),   
-led a production team at an OTT startup, managed AI webtoon pipelines in a content-tech company,   
-and somehow ended up with a master's in science journalism from KAIST and trained as a data analyst through a government-backed program.  
+led a production team at an OTT startup, managed AI webtoon pipelines in a content-tech company.   
+Somewhere along the way I picked up a master's in science journalism from KAIST, a government-backed data analyst training, and an AI engineering course backed by Microsoft (MS AI School, Cohort 9).
   
   
 🔗  
   
-### I'm told it'll all make sense later.  
+### I'm told it'll all make sense later  
 
 
 I spent my career in the uncertainty business — language, narrative, human behavior on camera. Then I watched AI explode through the exact same forces: nonlinearity, probability, emergence from chaos. So I walked in.  
 
 My entire career has been about connecting worlds that don't obviously belong together — Show to AI is just the latest one.
   
-Now: completing MS AI School (Cohort 9). Still looking for what's next.
+### Now 
+bootstrapping an AI project for a startup, preparing for the next stage.
+
+### What I'm thinking about
+- How tacit knowledge forms, transfers, and disappears
+- A place to fall asleep again — time-gated, looped, built from borrowed memories
   
 🔗  
   
